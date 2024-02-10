@@ -37,3 +37,6 @@ The final repository's history should look like this:
 branch1
 
 branch1
+branch2
+
+branch2
