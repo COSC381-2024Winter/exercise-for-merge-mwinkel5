@@ -35,3 +35,5 @@ The final repository's history should look like this:
 * xxxxxxx Initial commit
 ```
 branch2
+
+branch2
